@@ -1,0 +1,64 @@
+{
+  "aiToolsForStudents": [
+    {
+      "name": "GPT-3 Playground",
+      "description": "GPT-3 Playground is an interactive platform that allows students to experiment with OpenAI's GPT-3 model. It provides a user-friendly interface for generating text based on prompts.",
+      "link": "https://playground.openai.com/",
+      "image": "https://example.com/gpt3_playground.jpg"
+    },
+    {
+      "name": "Google Colab",
+      "description": "Google Colab is a free cloud-based platform that provides a Jupyter notebook environment with access to GPU resources. Students can use it for experimenting with AI models, including natural language processing tasks.",
+      "link": "https://colab.research.google.com/",
+      "image": "https://example.com/google_colab.jpg"
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "description": "Hugging Face Transformers is a library that provides easy access to pre-trained language models, including GPT-2 and BERT. Students can use it for various natural language processing tasks.",
+      "link": "https://huggingface.co/transformers/",
+      "image": "https://example.com/hugging_face_transformers.jpg"
+    },
+    {
+      "name": "AllenNLP",
+      "description": "AllenNLP is an open-source library for natural language processing research, built on top of PyTorch. It provides modular components and pre-trained models for tasks such as text classification and named entity recognition.",
+      "link": "https://allennlp.org/",
+      "image": "https://example.com/allennlp.jpg"
+    },
+    {
+      "name": "TensorFlow Playground",
+      "description": "TensorFlow Playground is an interactive web-based platform that allows students to explore and visualize neural networks. It provides a hands-on approach to learning the basics of machine learning.",
+      "link": "https://playground.tensorflow.org/",
+      "image": "https://example.com/tensorflow_playground.jpg"
+    },
+    {
+      "name": "Jupyter Notebook",
+      "description": "Jupyter Notebook is an open-source web application that allows users to create and share documents containing live code, equations, visualizations, and narrative text. It is commonly used for data analysis, machine learning, and scientific research.",
+      "link": "https://jupyter.org/",
+      "image": "https://example.com/jupyter_notebook.jpg"
+    },
+    {
+      "name": "Fast.ai",
+      "description": "Fast.ai is a research group focused on making deep learning more accessible. They provide practical deep learning courses, software libraries, and pretrained models that are suitable for students and beginners.",
+      "link": "https://www.fast.ai/",
+      "image": "https://example.com/fast_ai.jpg"
+    },
+    {
+      "name": "OpenAI Gym",
+      "description": "OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms. It provides a wide variety of environments for testing and training agents, making it ideal for students interested in reinforcement learning.",
+      "link": "https://gym.openai.com/",
+      "image": "https://example.com/openai_gym.jpg"
+    },
+    {
+      "name": "PyTorch",
+      "description": "PyTorch is an open-source deep learning framework developed by Facebook. It offers a flexible and dynamic computational graph, making it suitable for research and experimentation in neural networks.",
+      "link": "https://pytorch.org/",
+      "image": "https://example.com/pytorch.jpg"
+    },
+    {
+      "name": "Kaggle",
+      "description": "Kaggle is an online community of data scientists and machine learning practitioners. It offers datasets, competitions, and notebooks where students can practice their AI skills, collaborate with others, and learn from experts.",
+      "link": "https://www.kaggle.com/",
+      "image": "https://example.com/kaggle.jpg"
+    }
+  ]
+}

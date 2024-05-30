@@ -1,0 +1,59 @@
+{
+  "aiToolsForFrontEndDesigners": [
+    {
+      "name": "Adobe XD",
+      "description": "Adobe XD is a vector-based design tool for designing and prototyping user experiences for websites and mobile apps.",
+      "link": "https://www.adobe.com/products/xd.html"
+    },
+    {
+      "name": "Figma",
+      "description": "Figma is a collaborative interface design tool used for creating user interfaces, prototypes, and design systems.",
+      "link": "https://www.figma.com/"
+    },
+    {
+      "name": "Sketch",
+      "description": "Sketch is a vector-based design tool for UI/UX designers, allowing them to create interactive prototypes and user interfaces.",
+      "link": "https://www.sketch.com/"
+    },
+    {
+      "name": "Zeplin",
+      "description": "Zeplin is a collaboration tool for designers and developers, allowing them to create and share design specs, assets, and style guides.",
+      "link": "https://zeplin.io/"
+    },
+    {
+      "name": "InVision",
+      "description": "InVision is a digital product design platform that allows designers to create interactive prototypes, collaborate with stakeholders, and gather feedback.",
+      "link": "https://www.invisionapp.com/"
+    },
+    {
+      "name": "Marvel",
+      "description": "Marvel is a design and prototyping platform that enables front-end designers to create interactive mockups and wireframes for web and mobile applications.",
+      "link": "https://marvelapp.com/"
+    },
+    {
+      "name": "Proto.io",
+      "description": "Proto.io is a prototyping tool for designing interactive prototypes and animations for web and mobile apps, without writing code.",
+      "link": "https://proto.io/"
+    },
+    {
+      "name": "Balsamiq",
+      "description": "Balsamiq is a wireframing tool that allows front-end designers to create low-fidelity wireframes and mockups for web and mobile applications.",
+      "link": "https://balsamiq.com/"
+    },
+    {
+      "name": "Webflow",
+      "description": "Webflow is a no-code website builder that enables front-end designers to design, build, and launch responsive websites visually.",
+      "link": "https://webflow.com/"
+    },
+    {
+      "name": "Adobe Dreamweaver",
+      "description": "Adobe Dreamweaver is a code editor and web design tool that allows front-end designers to visually design and code responsive websites.",
+      "link": "https://www.adobe.com/products/dreamweaver.html"
+    },
+    {
+      "name": "Framer",
+      "description": "Framer is an advanced prototyping tool that combines design and development functionalities, allowing front-end designers to create interactive prototypes with animations, gestures, and complex interactions.",
+      "link": "https://www.framer.com/"
+    }
+  ]
+}
